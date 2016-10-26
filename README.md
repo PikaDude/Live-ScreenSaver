@@ -14,8 +14,8 @@ Report it in the issues section. Thats why it exists
 # I found a really cool webcam that I want to be added
 Once I have created a config menu, you can add it to your list. But if you think its really good, add it in the Issues section with the tag "Enhancement" or something.
 # No Pics No Clicks
-[![Live-ScreenSaver](https://github.com/PikaDude/Live-ScreenSaver/blob/master/Screenshots/0.jpg?raw=true "Screenshot 1")]
-[![Live-ScreenSaver](https://github.com/PikaDude/Live-ScreenSaver/blob/master/Screenshots/1.jpg?raw=true "Screenshot 2")]
-[![Live-ScreenSaver](https://github.com/PikaDude/Live-ScreenSaver/blob/master/Screenshots/2.jpg?raw=true "Screenshot 3")]
-[![Live-ScreenSaver](https://github.com/PikaDude/Live-ScreenSaver/blob/master/Screenshots/3.jpg?raw=true "Screenshot 4")]
+![Live-ScreenSaver](https://github.com/PikaDude/Live-ScreenSaver/blob/master/Screenshots/0.jpg?raw=true "Screenshot 1")
+![Live-ScreenSaver](https://github.com/PikaDude/Live-ScreenSaver/blob/master/Screenshots/1.jpg?raw=true "Screenshot 2")
+![Live-ScreenSaver](https://github.com/PikaDude/Live-ScreenSaver/blob/master/Screenshots/2.jpg?raw=true "Screenshot 3")
+![Live-ScreenSaver](https://github.com/PikaDude/Live-ScreenSaver/blob/master/Screenshots/3.png?raw=true "Screenshot 4")
 That enough evidence that I'm not trying to scam you?
