@@ -18,4 +18,4 @@ Once I have created a config menu, you can add it to your list. But if you think
 ![Live-ScreenSaver](https://github.com/PikaDude/Live-ScreenSaver/blob/master/Screenshots/1.jpg?raw=true "Screenshot 2")
 ![Live-ScreenSaver](https://github.com/PikaDude/Live-ScreenSaver/blob/master/Screenshots/2.jpg?raw=true "Screenshot 3")
 ![Live-ScreenSaver](https://github.com/PikaDude/Live-ScreenSaver/blob/master/Screenshots/3.png?raw=true "Screenshot 4")
-That enough evidence that I'm not trying to scam you?
+Is that enough evidence to prove that I'm not trying to scam you?
