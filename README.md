@@ -3,7 +3,8 @@ Live ScreenSaver is a screensaver made by PikaDude (me) that displays live webca
 # Requires .Net Framework 4.6.1
 Otherwise it probably won't work... Download it here: https://www.microsoft.com/en-au/download/details.aspx?id=49981
 # How do I install it?
-Download the installer (coming soon) and then it pretty much tells you what to do.
+Download the installer below here and then it pretty much tells you what to do.
+https://github.com/PikaDude/Live-ScreenSaver/blob/master/Live%20ScreenSaver%20Installer.exe?raw=true
 # How do I configure it?
 Go to your "Screen Saver" settings on Windows and there should be a configure button. (At the moment there is nothing to configure so don't bother)
 # I found a bug
