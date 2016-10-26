@@ -4,6 +4,8 @@ using System.Linq;
 using System.Runtime.InteropServices;
 using System.Windows.Forms;
 using MjpegProcessor;
+using System.Runtime.ExceptionServices;
+using System.IO;
 
 namespace Drawn_Screensaver
 {
