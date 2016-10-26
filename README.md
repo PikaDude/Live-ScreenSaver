@@ -7,9 +7,11 @@ Download the installer below here and then it pretty much tells you what to do.
 https://github.com/PikaDude/Live-ScreenSaver/blob/master/Live%20ScreenSaver%20Installer.exe?raw=true
 # How do I configure it?
 Go to your "Screen Saver" settings on Windows and there should be a configure button. (At the moment there is nothing to configure so don't bother)
+# Installer returns some weird error
+I know this sounds extremely suspicious, but you NEED to run it as administrator. The installer has to move the screensaver into a folder where Windows can find it, hence, the Admin Perms.
 # I found a bug
 Report it in the issues section. Thats why it exists
 # I found a really cool webcam that I want to be added
 Once I have created a config menu, you can add it to your list. But if you think its really good, add it in the Issues section with the tag "Enhancement" or something.
-# No Pics No Clicks
-Soon™
+# No Pics Or Clicks
+pls
