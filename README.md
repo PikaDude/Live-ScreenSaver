@@ -10,3 +10,5 @@ Go to your "Screen Saver" settings on Windows and there should be a configure bu
 Report it in the issues section. Thats why it exists
 # I found a really cool webcam that I want to be added
 Once I have created a config menu, you can add it to your list. But if you think its really good, add it in the Issues section with the tag "Improvement" or something.
+# No Pics No Clicks
+Soon™
