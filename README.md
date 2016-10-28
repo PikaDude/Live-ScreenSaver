@@ -1,5 +1,5 @@
 # What is Live ScreenSaver?
-Live ScreenSaver is a screensaver made by PikaDude (me) that displays live webcams from across the world.
+Live ScreenSaver is a screensaver made by PikaDude (me) that displays live webcams from across the world!
 # Requires .Net Framework 4.6.1
 Otherwise it probably won't work... Download it here: https://www.microsoft.com/en-au/download/details.aspx?id=49981
 # How do I install it?
