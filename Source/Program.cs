@@ -31,11 +31,7 @@ namespace Drawn_Screensaver
                 else if (args[0].ToLower().Trim().Substring(0, 2) == "/c") //configure
                 {
                     //configure screensaver
-                    MessageBox.Show("This screensaver has no options that you can set at the current point of time.",
-                        "Drawn Screensaver",
-                        MessageBoxButtons.OK,
-                        MessageBoxIcon.Information);
-                    //i'll get to this later
+                    //finish this later
                 }
             }
             else
