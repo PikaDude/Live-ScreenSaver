@@ -20,3 +20,5 @@ Once I have created a config menu, you can add it to your list. But if you think
 ![Live-ScreenSaver](https://github.com/PikaDude/Live-ScreenSaver/blob/master/Screenshots/0.png?raw=true "Screenshot 1")
 ![Live-ScreenSaver](https://github.com/PikaDude/Live-ScreenSaver/blob/master/Screenshots/1.png?raw=true "Screenshot 2")
 ![Live-ScreenSaver](https://github.com/PikaDude/Live-ScreenSaver/blob/master/Screenshots/2.jpg?raw=true "Screenshot 3")
+# Does this work on Mac and Linux?
+I HIGHLY doubt it. It's designed for Windows.
