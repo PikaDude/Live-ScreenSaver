@@ -1,3 +1,6 @@
+# Live ScreenSaver (0.2)
+A ScreenSaver for Windows made by PikaDude.
+
 # What is Live ScreenSaver?
 Live ScreenSaver is a screensaver made by PikaDude (me) that displays live webcams from across the world!
 # Requires .Net Framework 4.6.1
