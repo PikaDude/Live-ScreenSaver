@@ -1,3 +1,5 @@
+# Discontinued
+
 # Live ScreenSaver (0.2)
 A ScreenSaver for Windows made by PikaDude.
 
